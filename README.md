@@ -1,7 +1,7 @@
 # OmniFlowNet
 OmniFlowNet
 
-This repository (https://github.com/COATZ/OmniFlowNet) is the offical release of OmniLiteFlowNet for my paper OmniFlowNet: a Perspective Neural Network Adaptation for OpticalFlow Estimation in Omnidirectional Images in ICPR 2020.
+This repository (https://github.com/COATZ/OmniFlowNet) is the offical release of OmniFlowNet for my paper "OmniFlowNet: a Perspective Neural Network Adaptation for OpticalFlow Estimation in Omnidirectional Images in ICPR 2020".
 
 OmniFlowNet is an adaptation of CAFFE based CNNs for optical flow estimation in omnidirectional images. This implentation was tested on FlowNet2 (https://github.com/lmb-freiburg/flownet2) and LiteFlowNet2 (https://github.com/twhui/LiteFlowNet2).
 
