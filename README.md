@@ -17,6 +17,11 @@ OmniFlowNet is an adaptation of CAFFE based CNNs for optical flow estimation in 
 
 A video shows differences between LiteFlowNet2 and OmniFlowNet on several equirectangular scenes: http://www.i3s.unice.fr/~allibert/Videos/icpr20_video.mp4.
 
+# Dataset
+
+The omnidirectional dataset used to test the CNN is available at: http://www.i3s.unice.fr/~allibert/data/OMNIFLOWNET_DATASET.zip.
+For the three scenes (Cartoon Tree, Forest and LowPolyModels), the equirectangular rgb images are available as well as the ground truth optical flow.
+
 # References
 If you find this implementation useful in your work, please acknowledge it appropriately and cite the paper:
 ````
