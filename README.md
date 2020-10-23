@@ -18,3 +18,18 @@ OmniFlowNet is an adaptation of CAFFE based CNNs for optical flow estimation in 
 A video shows differences between LiteFlowNet2 and OmniFlowNet on several equirectangular scenes: http://www.i3s.unice.fr/~allibert/Videos/icpr20_video.mp4.
 
 # References
+If you find this implementation useful in your work, please acknowledge it appropriately and cite the paper:
+````
+@inproceedings{artizzu:hal-02968191,
+  TITLE = {{OmniFlowNet: a Perspective Neural Network Adaptation for Optical Flow Estimation in Omnidirectional Images}},
+  AUTHOR = {Artizzu, Charles-Olivier and Zhang, Haozhou and Allibert, Guillaume and Demonceaux, C{\'e}dric},
+  URL = {https://hal.archives-ouvertes.fr/hal-02968191},
+  BOOKTITLE = {{25th International Conference on Pattern Recognition (ICPR)}},
+  ADDRESS = {Milan, Italy},
+  YEAR = {2021},
+  MONTH = Jan,
+  PDF = {https://hal.archives-ouvertes.fr/hal-02968191/file/ICPR_2020_FINAL.pdf},
+  HAL_ID = {hal-02968191},
+  HAL_VERSION = {v1},
+}
+````
