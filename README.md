@@ -19,7 +19,7 @@ A video shows differences between LiteFlowNet2 and OmniFlowNet on several equire
 
 # Dataset
 
-The omnidirectional dataset used to test the CNN is available at: http://www.i3s.unice.fr/~allibert/data/OMNIFLOWNET_DATASET.zip.
+The omnidirectional dataset used to test the CNN is available at: https://www.i3s.unice.fr/~allibert/data/OMNIFLOWNET_DATASET.zip.
 For the three scenes (Cartoon Tree, Forest and LowPolyModels), the equirectangular rgb images are available as well as the ground truth optical flow.
 
 # References
